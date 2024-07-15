@@ -1,3 +1,3 @@
 # CFG-Python-Activision
 
-## I will be uploading my files shortly, as I am currently working on another project ... Stay tuned!
+## I will be uploading my files shortly, used pycharm for this project ... Stay tuned!
