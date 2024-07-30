@@ -1,7 +1,5 @@
 # Task 3: Total Sales 
 
-## Overview
-
 This script analyzes sales data from a CSV file and provides a summary of the total sales for the year. The script is written in Python and uses the Pandas library for data manipulation. It generates a straightforward output message displaying the total sales and additional highlights.
 
 ## Purpose
