@@ -133,6 +133,7 @@ ax2.grid(False)  # Remove grid lines from ax2
 plt.tight_layout()
 plt.show()
 ```
+![Monthly_sales_and_growth_rate_analysis](https://github.com/user-attachments/assets/cf96e026-6574-4548-bad8-dcba64b948a6)
 
 **Explanation**: This dual-axis plot shows monthly sales and the corresponding growth rates. The blue line represents sales, while the red dashed line shows the growth rate. This visualization highlights how sales performance and growth rates vary over the months, with July standing out due to its exceptional growth rate.
 
@@ -151,6 +152,7 @@ plt.grid(False)  # Remove grid lines
 plt.tight_layout()
 plt.show()
 ```
+![Monthly_sales_and_growth_rate_analysis](https://github.com/user-attachments/assets/5bdacb07-0a73-410f-a8e0-99487973612e)
 
 **Explanation**: This bar chart shows average sales for each month, providing a clear view of seasonal trends. The highest bars indicate peak sales periods (e.g., January, July), while lower bars reveal months with reduced sales. This visualization helps in understanding monthly sales performance and seasonal fluctuations.
 
@@ -166,8 +168,9 @@ plt.grid(False)  # Remove grid lines
 plt.tight_layout()
 plt.show()
 ```
+![Sales_distribution](https://github.com/user-attachments/assets/8ef371e6-218e-4ccc-a026-b4217c39c31a)
 
-**Explanation**: The histogram with a KDE (Kernel Density Estimate) overlay displays the distribution of sales figures. The KDE smooths the histogram, providing a continuous estimate of the sales distribution. This helps in understanding the frequency and spread of sales amounts. The use of KDE is beneficial for visualizing the underlying distribution and can be improved by adjusting the bandwidth parameter to better capture data patterns.
+**Explanation**: The histogram with a KDE (Kernel Density Estimate) overlay displays the distribution of sales figures. The KDE smooths the histogram, providing a continuous estimate of the sales distribution. [More details can be found about KDE here]. This helps in understanding the frequency and spread of sales amounts. The use of KDE is beneficial for visualizing the underlying distribution and can be improved by adjusting the bandwidth parameter to better capture data patterns.
 
 ### 4. Simulated Year-on-Year Comparison Visualization
 
@@ -186,6 +189,7 @@ plt.xticks(rotation=45)
 plt.tight_layout()
 plt.show()
 ```
+![Year_on_Year_Sales_Comparison](https://github.com/user-attachments/assets/04a26f00-433b-4597-8098-09a90687432c)
 
 **Explanation**: This line plot compares sales for the current year with simulated previous year sales. The solid line represents current year sales, while the dashed line represents the simulated previous year. This visualization helps in understanding trends and changes in sales over time, highlighting months with significant differences.
 
@@ -200,8 +204,9 @@ plt.grid(False)  # Remove grid lines
 plt.tight_layout()
 plt.show()
 ```
+![Sales_vs_Expenditure (Correlation Heatmap)](https://github.com/user-attachments/assets/558b125e-0bf7-4b06-b982-c9bd067154c4)
 
-**Explanation**: The heatmap visualizes the correlation between sales and expenditure. The color intensity reflects the strength and direction of the correlation, with blue indicating negative correlation and red indicating positive correlation. The negative correlation suggests an inverse relationship between sales and expenditure, which could be due to various factors such as inefficiencies in spending.
+**Explanation**: The heatmap visualizes the correlation between sales and expenditure. The color intensity reflects the strength and direction of the correlation, with blue indicating negative correlation and red indicating positive correlation. The negative correlation suggests an inverse relationship between sales and expenditure, which could be due to various factors such as inefficiencies in spending or may other factors.
 
 ## Recommendations and Improvements
 
