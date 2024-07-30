@@ -1,6 +1,6 @@
 # Task 1: Load and Display Sales Data
 
-This step involves reading sales data from a CSV file and displaying the entire dataset. This README provides an explanation of the key components of the script, including function definitions and the main execution block.
+This step involves reading sales data from a [CSV file](https://github.com/FarahIbrar/CFG-Python-Activision/blob/main/Project/Data%20File/sales.csv) and displaying the entire dataset. This README provides an explanation of the key components of the script, including function definitions and the main execution block.
 
 The following code accomplishes this task using Python in Pycharm.
 
