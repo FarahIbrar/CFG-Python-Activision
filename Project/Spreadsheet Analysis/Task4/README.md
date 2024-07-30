@@ -1,7 +1,5 @@
 # Task 4: Advanced Sales Analysis
 
-## Overview
-
 This analysis delves into monthly sales data to uncover insights related to sales performance, growth trends, seasonal patterns, and expenditure correlations. Using Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn, we performed a comprehensive examination of the dataset, producing various statistical summaries and visualizations.
 
 ## Dataset
