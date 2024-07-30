@@ -1,6 +1,6 @@
 # Task 2: Aggregating Monthly Sales
 
-This script performs data analysis on a CSV file containing sales data. It reads the data, aggregates sales figures, and displays them in two formats: a simple list and a formatted list with month names and sales figures in pounds (£).
+This script performs data analysis on a CSV file containing [sales data](https://github.com/FarahIbrar/CFG-Python-Activision/blob/main/Project/Data%20File/sales.csv) . It reads the data, aggregates sales figures, and displays them in two formats: a simple list and a formatted list with month names and sales figures in pounds (£).
 
 ## Script Breakdown
 
