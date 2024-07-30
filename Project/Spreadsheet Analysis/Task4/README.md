@@ -152,7 +152,7 @@ plt.grid(False)  # Remove grid lines
 plt.tight_layout()
 plt.show()
 ```
-![Monthly_sales_and_growth_rate_analysis](https://github.com/user-attachments/assets/5bdacb07-0a73-410f-a8e0-99487973612e)
+![Average_monthly_sales](https://github.com/user-attachments/assets/6e2ccc0e-fcaf-4303-9636-43611420b011)
 
 **Explanation**: This bar chart shows average sales for each month, providing a clear view of seasonal trends. The highest bars indicate peak sales periods (e.g., January, July), while lower bars reveal months with reduced sales. This visualization helps in understanding monthly sales performance and seasonal fluctuations.
 
