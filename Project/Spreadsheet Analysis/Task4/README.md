@@ -170,7 +170,7 @@ plt.show()
 ```
 ![Sales_distribution](https://github.com/user-attachments/assets/8ef371e6-218e-4ccc-a026-b4217c39c31a)
 
-**Explanation**: The histogram with a KDE (Kernel Density Estimate) overlay displays the distribution of sales figures. The KDE smooths the histogram, providing a continuous estimate of the sales distribution. [More details can be found about KDE here]. This helps in understanding the frequency and spread of sales amounts. The use of KDE is beneficial for visualizing the underlying distribution and can be improved by adjusting the bandwidth parameter to better capture data patterns.
+**Explanation**: The histogram with a KDE (Kernel Density Estimate) overlay displays the distribution of sales figures. The KDE smooths the histogram, providing a continuous estimate of the sales distribution. [More details about KDE can be found in this guide](https://github.com/FarahIbrar/CFG-Python-Activision/wiki). This helps in understanding the frequency and spread of sales amounts. The use of KDE is beneficial for visualizing the underlying distribution and can be improved by adjusting the bandwidth parameter to better capture data patterns.
 
 ### 4. Simulated Year-on-Year Comparison Visualization
 
