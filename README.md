@@ -11,4 +11,4 @@
 
 - I hope to finish with all updates related to this project soon, maybe this week.
 
-- STAY TUNED :) 
+- STAY TUNED and THANK YOU FOR YOUR PATIENCE :) 
