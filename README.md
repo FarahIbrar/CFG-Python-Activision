@@ -9,4 +9,6 @@
 - Check out the `Project` folder for project details.
 - I used pycharm mainly for this project as well as Jupyter Notebook too...
 
+- I hope to finish with all updates related to this project soon, maybe this week.
+
 - STAY TUNED :) 
