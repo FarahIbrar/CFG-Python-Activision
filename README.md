@@ -1,6 +1,6 @@
 # CFG-Python-Activision
 
-## I am in the process of uploading/updating my files!
+## I am in the process of updating my files!
 
 
 - Updates taking place overtime ...
