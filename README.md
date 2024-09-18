@@ -10,5 +10,6 @@
 - I used pycharm mainly for this project as well as Jupyter Notebook too...
 
 - I hope to finish with all updates related to this project soon, maybe this week.
+- STILL WORKING ON IT GUYS!
 
 - STAY TUNED and THANK YOU FOR YOUR PATIENCE :) 
