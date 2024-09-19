@@ -10,6 +10,6 @@
 - I used pycharm mainly for this project as well as Jupyter Notebook too...
 
 - I hope to finish with all updates related to this project soon, maybe this week.
-- STILL WORKING ON IT GUYS!
+- UPDATE: I have tried my best to fit my git work for this project in my week, but there are a lot of commitments that needs to be fulfilled before this. I hope you all understand. 
 
 - STAY TUNED and THANK YOU FOR YOUR PATIENCE :) 
