@@ -1,6 +1,6 @@
 # CFG-Python-Activision
 
-## I am in the process of updating my files!
+## I am in the process of updating my files! If you are here to review my project, please head to the "Project Folder". Thank you. 
 
 
 - Updates taking place overtime ...
